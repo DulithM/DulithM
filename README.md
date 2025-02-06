@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on some Large Projects.<br>I'm looking to collaborate on Tourist Guidance App.<br>I'm also looking for help with Company HR Teams about information I need for an App.<br>I'm currently a BSc (Hons) Computer Science Student. <br>Ask me about anything OOP.<br>
+I'm currently working on some Large Projects.<br>I'm looking to collaborate on Tourist Guidance App.<br>I'm also looking for help with Company HR Teams about information I need for an App.<br>I'm currently a BSc (Hons) Computer Science Student.<br>
 
 
 ## 🌐 Socials:
